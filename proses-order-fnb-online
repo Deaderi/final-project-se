@@ -1,0 +1,18 @@
+Read and Write "Restaurant" with string
+Read and Write "Food" with string
+Read and Write "beverage" with string
+
+Store "Restaurant" with "Janji Jiwa"
+
+Store "Food" with "Beef Truffle Mayo"
+Store "Baverage" with "Matcha Latte"
+
+Store "Beef Truffle Mayo" with number 31000
+Store "Matcha Latte" with number 27000
+Store "Total" with Calculate "Beef Truffle Latte" plus "Match Latte"
+Store "E-Money" with 60000
+
+If "E-Money" more than or equal "Total"
+	Print "Pesan"
+Else
+	Print "Saldo tidak mencukupi"
